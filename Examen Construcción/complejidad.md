@@ -1,6 +1,6 @@
 # Examen: Respuesta inciso 40
 
-**Alumno:** Sandoval Bravo Alejandro
+**Alumno:** Sandoval Bravo Alejandro  
 **Matrícula:** S18012132
 
 ## Algoritmo
